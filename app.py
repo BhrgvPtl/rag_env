@@ -5,6 +5,7 @@ import os
 import tempfile
 
 
+
 # Paths and files
 input_folder = "law"
 output_folder = "law/output"
