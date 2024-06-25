@@ -13,8 +13,6 @@ logger = logging.getLogger(__name__)
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-hi
-
 class SimpleRAG:
     def __init__(self, preprocessed_folder: str, prompts_file: str):
         self.preprocessed_folder = preprocessed_folder
