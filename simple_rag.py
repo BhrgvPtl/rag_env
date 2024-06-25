@@ -112,4 +112,8 @@ class SimpleRAG:
             logger.error(f"Error answering question: {str(e)}", exc_info=True)
             yield f"An error occurred: {str(e)}"
 
+<<<<<<< HEAD
     
+=======
+    
+>>>>>>> 2f7a6c8799244cc22bc52f47df0e2ef9557f9b6b
