@@ -49,18 +49,24 @@ This project is a Law Document Retrieval and Question Answering System using Ret
 
 ## Usage
 
-1. Run the Streamlit app:
+1. Ensure that you have placed your PDF files in the `law` folder.
+
+2. Run the Streamlit app:
 
     ```bash
     streamlit run app.py
     ```
 
-2. Use the web interface to:
-    - Process PDF files in the specified input folder.
+3. Use the web interface to:
+    - Process PDF files in the `law` folder.
     - Upload and process a single PDF file.
     - Query the processed documents and get answers based on the retrieved document chunks.
 
 ## File Descriptions
+
+### `law/`
+
+Contains the PDF files about laws and the `output` folder which stores the processed JSON files.
 
 ### `app.py`
 
