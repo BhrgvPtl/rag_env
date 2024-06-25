@@ -6,8 +6,8 @@ import tempfile
 
 
 # Paths and files
-input_folder = "C://Users//bhargav//OneDrive//Desktop//law"
-output_folder = "C://Users//bhargav//OneDrive//Desktop//law//output"
+input_folder = "law"
+output_folder = "law/output"
 prompts_file = "prompt.txt"
 
 # Load the RAG system
