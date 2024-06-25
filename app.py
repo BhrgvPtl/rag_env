@@ -3,6 +3,7 @@ from document_processor import DocumentProcessor
 from simple_rag import SimpleRAG
 import os
 import tempfile
+import numpy
 
 # Paths and files
 input_folder = "C://Users//bhargav//OneDrive//Desktop//law"
