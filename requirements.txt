@@ -1,0 +1,9 @@
+streamlit
+numpy<2
+sentence-transformers
+faiss-cpu
+pytesseract
+pillow
+PyPDF2
+tqdm
+openai

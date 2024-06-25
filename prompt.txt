@@ -1,0 +1,114 @@
+[
+    {
+        "system": "What is the purpose of Form 3520-A?",
+        "user": "Form 3520-A is the annual information return of a foreign trust with at least one U.S. owner. It provides information about the foreign trust, its U.S. beneficiaries, and any U.S. person treated as an owner of any portion of the foreign trust under the grantor trust rules."
+    },
+    {
+        "system": "When is Form 3520-A due?",
+        "user": "Form 3520-A must be filed by the 15th day of the 3rd month after the end of the trust's tax year. An automatic 6-month extension can be requested using Form 7004."
+    },
+    {
+        "system": "Who is responsible for ensuring Form 3520-A is filed?",
+        "user": "Each U.S. person treated as an owner of any portion of a foreign trust under the grantor trust rules is responsible for ensuring that the foreign trust files Form 3520-A and furnishes the required annual statements to its U.S. owners and U.S. beneficiaries."
+    },
+    {
+        "system": "What penalties may apply if Form 3520-A is not filed?",
+        "user": "The U.S. owner is subject to an initial penalty equal to the greater of $10,000 or 5% of the gross value of the portion of the trust's assets treated as owned by the U.S. person at the close of that tax year if the foreign trust fails to file a timely Form 3520-A or does not furnish all required information."
+    },
+    {
+        "system": "What is a U.S. agent in the context of Form 3520-A?",
+        "user": "A U.S. agent is a U.S. person with a binding contract with a foreign trust that allows them to act as the trust's authorized U.S. agent in applying sections 7602, 7603, and 7604 with respect to IRS requests to examine records, produce testimony, or respond to summons related to the proper U.S. tax treatment of amounts distributed or required to be taken into account under the grantor trust rules."
+    },
+    {
+        "system": "What are the primary methods for figuring federal income tax withholding on periodic payments of pensions and annuities?",
+        "user": "The primary methods for figuring federal income tax withholding on periodic payments of pensions and annuities are the Wage Bracket Method and the Percentage Method. These methods are described in Publication 15-T."
+    },
+    {
+        "system": "How should employers handle electronic submission of Forms W-4?",
+        "user": "Employers may set up a system to electronically receive Form W-4 or Form W-4P from an employee or payee. The electronic system must ensure that the information received is the same as that sent by the employee, provide the same information as the paper form, and include an electronic signature."
+    },
+    {
+        "system": "What is the purpose of Publication 15-T?",
+        "user": "Publication 15-T supplements Publication 15, Employer's Tax Guide. It describes how to figure withholding using the Wage Bracket Method or Percentage Method, alternative methods for figuring withholding, and provides tables for withholding on distributions of Indian Gaming Profits to Tribal Members."
+    },
+    {
+        "system": "Describe the changes to Form W-4P starting from 2022.",
+        "user": "Starting in 2022, Form W-4P was redesigned and is now used only to make withholding elections for periodic pension or annuity payments. Previously, it was also used for nonperiodic payments and eligible rollover distributions, which are now handled by Form W-4R."
+    },
+    {
+        "system": "How should employers treat 2019 and earlier Forms W-4?",
+        "user": "Employers may use an optional computational bridge to treat 2019 and earlier Forms W-4 as if they were 2020 or later Forms W-4 for purposes of figuring federal income tax withholding."
+    },
+    {
+        "system": "What are the requirements for electronic submission systems for Form W-4?",
+        "user": "The electronic system must ensure the information received is the information sent by the employee, provide exactly the same information as the paper form, include an electronic signature, and meet all recordkeeping requirements that apply to paper forms."
+    },
+    {
+        "system": "What should employers do if an employee fails to furnish a Form W-4?",
+        "user": "If a new employee fails to furnish a Form W-4, they will be treated as if they had checked the box for Single or Married filing separately in Step 1(c) and made no entries in Step 2, Step 3, or Step 4 of Form W-4."
+    },
+    {
+        "system": "What is the IRS Tax Withholding Estimator?",
+        "user": "The IRS Tax Withholding Estimator is a tool available at IRS.gov/W4App that employees and payees can use when completing their Form W-4 or Form W-4P to estimate their federal income tax withholding accurately."
+    },
+    {
+        "system": "Explain the exemption from withholding on Form W-4.",
+        "user": "Employees who write 'Exempt' on Form W-4 in the space below Step 4(c) shall have no federal income tax withheld from their paychecks except in the case of certain supplemental wages. Generally, this exemption can be claimed if they had no federal income tax liability last year and expect none this year."
+    },
+    {
+        "system": "How can employers get more information about electronic submissions of Form W-4?",
+        "user": "Employers can find more information about electronic submissions of Form W-4 in Regulations section 31.3402(f)(5)-1(c) and Announcement 99-6, available on the IRS website. These resources provide guidelines and requirements for electronic submission systems."
+    },
+    {
+        "system": "What should you do if you have investment income from foreign sources?",
+        "user": "If you are a U.S. citizen with investment income from sources outside the United States, you must report that income on your tax return unless it is exempt by U.S. law. This is true whether you reside inside or outside the United States and whether or not you receive a Form 1099 from the foreign payer."
+    },
+    {
+        "system": "How are employee stock options taxed?",
+        "user": "If you received an option to buy or sell stock or other property as payment for your services, see Pub. 525, Taxable and Nontaxable Income, for the special tax rules that apply."
+    },
+    {
+        "system": "What relief is available for those affected by disasters?",
+        "user": "Relief is available for those affected by some disasters. See IRS.gov/DisasterTaxRelief."
+    },
+    {
+        "system": "How can you help bring missing children home?",
+        "user": "You can help bring missing children home by looking at the photographs in this publication and calling 800-THE-LOST (800-843-5678) if you recognize a child."
+    },
+    {
+        "system": "What types of income are considered investment income?",
+        "user": "Investment income generally includes interest, dividends, capital gains, and other types of distributions including mutual fund distributions."
+    },
+    {
+        "system": "What expenses are considered investment expenses?",
+        "user": "Investment expenses include interest paid or incurred to acquire investment property and expenses to manage or collect income from investment property."
+    },
+    {
+        "system": "Where can you find the rules that apply to retirement plan distributions?",
+        "user": "The tax rules that apply to retirement plan distributions are explained in publications such as Pub. 560, Pub. 571, Pub. 575, Pub. 590-A, Pub. 590-B, and Pub. 721."
+    },
+    {
+        "system": "How can you provide comments and suggestions about IRS publications?",
+        "user": "You can send comments and suggestions through IRS.gov/FormComments or write to the Internal Revenue Service, Tax Forms and Publications, 1111 Constitution Ave. NW, IR-6526, Washington, DC 20224."
+    },
+    {
+        "system": "How can you get tax forms, instructions, and publications?",
+        "user": "You can download current and prior-year forms, instructions, and publications from IRS.gov/Forms or order them at IRS.gov/OrderForms. You can also call 800-829-3676 to order prior-year forms and instructions."
+    },
+    {
+        "system": "What is the Net Investment Income Tax (NIIT)?",
+        "user": "The NIIT is a 3.8% tax on the lesser of your net investment income or the amount of your modified adjusted gross income (MAGI) that is over a threshold amount based on your filing status."
+    },
+    {
+        "system": "What should you do if you fail to provide your Taxpayer Identification Number (TIN) when required?",
+        "user": "If you fail to provide your TIN when required, you may have to pay a penalty. Additionally, if you do not provide a certified TIN on Form W-9, the payer must backup withhold on your interest payments at a rate of 24%."
+    },
+    {
+        "system": "What is a custodian account for your child?",
+        "user": "A custodian account is an account recorded in your name as custodian for your child. If your child is the actual owner of the account, you must give the child's SSN to the bank or other payer. If you do not, the payer may have to withhold part of the interest and report it to the IRS."
+    },
+    {
+        "system": "How do you figure estimated tax payments?",
+        "user": "To figure your estimated tax payments, you must estimate your expected income, deductions, credits, and other taxes for the year. Use the worksheet in Form 1040-ES to help you figure your estimated tax payments."
+    }
+]
