@@ -13,6 +13,7 @@ logger = logging.getLogger(__name__)
 
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
+hi
 
 class SimpleRAG:
     def __init__(self, preprocessed_folder: str, prompts_file: str):
@@ -111,9 +112,3 @@ class SimpleRAG:
         except Exception as e:
             logger.error(f"Error answering question: {str(e)}", exc_info=True)
             yield f"An error occurred: {str(e)}"
-
-<<<<<<< HEAD
-    
-=======
-    
->>>>>>> 2f7a6c8799244cc22bc52f47df0e2ef9557f9b6b
